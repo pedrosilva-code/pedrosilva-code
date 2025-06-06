@@ -6,19 +6,11 @@
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=364765&width=900&size=32&center=true&lines=Designer+Visual;Desenvolvedor+Front-end;Criador+de+interfaces+modernas;Seja+bem-vindo(a)!" alt="Typing SVG"/>
 </div>
-<p align="center">
-  🎨 Designer Visual & 👨‍💻 Desenvolvedor Front-end<br>
-  💡 Criador de interfaces modernas, funcionais e com propósito.<br>
-</p>
 
 <!-- Banner ou GIF de destaque -->
 <p align="center">
-  <img src="URL_DO_SEU_BANNER_OU_GIF_AQUI" alt="Banner Pedro Silva" width="100%" />
+  <img src="https://wallpapercave.com/wp/wp2763891.gif" alt="Banner Pedro Silva" width="100%" />
 </p>
-
----
-
-
 
 ---
 
