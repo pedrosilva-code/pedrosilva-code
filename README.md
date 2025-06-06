@@ -14,13 +14,37 @@
 
 ---
 
-| Característica       | Descrição                                                                 |
-|----------------------|---------------------------------------------------------------------------|
-| 🎯 Foco Principal     | Desenvolvimento Front-end + Design Visual                                 |
-| 🧩 Diferencial        | Integração entre design e código com foco em experiência do usuário        |
-| 🚀 Objetivo atual     | Trabalhar com projetos que unam estética, funcionalidade e inovação        |
-| 📱 Estilo de trabalho | Mobile-first, responsivo, focado em UI/UX                                 |
-| 🔥 Motivação          | Evoluir diariamente e inspirar pessoas por meio da tecnologia e atitude    |
+<!-- 📊 Estatísticas do GitHub -->
+<div align="center">
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=guilhermesxx&show_icons=true&count_private=true&rank_icon=github&theme=merko"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesxx&layout=compact&langs_count=16&theme=merko"
+  />
+  <br>
+  <br>
+  <img
+    align="center"
+    alt="Detalhes do Perfil"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesxx&theme=merko"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Streak"
+    src="https://github-readme-streak-stats.herokuapp.com?user=guilhermesxx&theme=merko&hide_border=true"
+  />
+</div>
+
 
 ---
 
