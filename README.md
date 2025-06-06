@@ -20,20 +20,20 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api/?username=pedrosilva-code&show_icons=true&count_private=true&rank_icon=github&theme=transparent"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesxx&layout=compact&langs_count=16&theme=merko"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilva-code&layout=compact&langs_count=16&theme=transparent"
   />
   <br>
   <br>
   <img
     align="center"
     alt="Detalhes do Perfil"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermesxx&theme=merko"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrosilva-code&theme=transparent"
   />
   <br>
   <br>
@@ -41,9 +41,8 @@
     height=154
     align="center"
     alt="Streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=guilhermesxx&theme=merko&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=pedrosilva-code&theme=transparent&hide_border=true"
   />
-</div>
 
 
 ---
