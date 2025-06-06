@@ -53,7 +53,15 @@
 
 ---
 
-## 📫 Contato e Redes
+<!-- 📬 Seção de contato -->
+<div align="center">
+  <samp>
+    <b>
+      Entre em contato:
+    </b>
+  </samp>
+  <br>
+  <br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedrosilva07/" target="_blank">
@@ -68,10 +76,6 @@
 </p>
 
 
-<!-- Espaço final para GIF de agradecimento ou frase -->
-<p align="center">
-  <img src="URL_DO_GIF_DE_GRATIDAO_OU_MOTIVACAO" alt="Thanks" width="50%" />
-</p>
 
 <p align="center">
   Feito com ❤️ por Pedro Silva • Vamos construir algo incrível juntos!
