@@ -20,7 +20,7 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=guilhermesxx&show_icons=true&count_private=true&rank_icon=github&theme=merko"
+    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)"
   />
   <img
     height=165
