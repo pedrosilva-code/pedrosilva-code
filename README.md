@@ -1,3 +1,5 @@
+<!-- 🌊 Header animado com borda verde -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4CAF50"/>
 <h1 align="center">👋 Olá, eu sou o Pedro Silva</h1>
 
 <p align="center">
