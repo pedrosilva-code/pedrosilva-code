@@ -14,23 +14,9 @@
 
 ---
 
-## 🧠 Sobre mim
 
-Sou apaixonado por transformar ideias em experiências digitais envolventes.  
-Combinando **design criativo** com **desenvolvimento Front-end**, busco entregar produtos visualmente atrativos, acessíveis e com ótima performance.
-
-Atualmente estudo **Desenvolvimento de Sistemas**, com foco em **Front-end e UI/UX**. Também atuo como **criador de conteúdo motivacional** e estudo **Marketing Digital** com foco em posicionamento orgânico.
-
-<!-- GIF ou imagem de "vida dev", rotina ou algo motivacional -->
-<p align="center">
-  <img src="URL_DO_GIF_OU_IMAGEM_SOBRE_DEV_AQUI" alt="Dev Life" width="60%" />
-</p>
-
-</details>
 
 ---
-
-## 👤 Persona Profissional
 
 | Característica       | Descrição                                                                 |
 |----------------------|---------------------------------------------------------------------------|
@@ -41,8 +27,6 @@ Atualmente estudo **Desenvolvimento de Sistemas**, com foco em **Front-end e UI/
 | 🔥 Motivação          | Evoluir diariamente e inspirar pessoas por meio da tecnologia e atitude    |
 
 ---
-
-## 🛠️ Tech Stack
 
 <p align="center">
   <!-- Linguagens -->
@@ -64,15 +48,6 @@ Atualmente estudo **Desenvolvimento de Sistemas**, com foco em **Front-end e UI/
 </p>
 
 ---
-
-## 💼 O que eu faço  
-
-
-- 🚧 Crio interfaces responsivas com foco em usabilidade e performance  
-- 🎨 Desenvolvo e organizo sistemas de design  
-- 📱 Transformo ideias em experiências visuais intuitivas  
-- 📢 Produzo conteúdo motivacional com storytelling e estética forte  
-- 📈 Estudo estratégias de posicionamento e marketing orgânico  
 
 
 
