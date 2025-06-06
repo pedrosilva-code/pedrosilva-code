@@ -1,4 +1,4 @@
-<!-- 🌊 Header animado com borda verde -->
+<!-- 🌊 Header animado com borda azul escuro -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=364765"/>
 <h1 align="center">👋 Olá, eu sou o Pedro Silva</h1>
 
@@ -101,3 +101,5 @@ Atualmente estudo **Desenvolvimento de Sistemas**, com foco em **Front-end e UI/
 <p align="center">
   Feito com ❤️ por Pedro Silva • Vamos construir algo incrível juntos!
 </p>
+<!-- 🌊 Footer animado com borda azul escuro -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=364765&height=100&section=footer"/>
