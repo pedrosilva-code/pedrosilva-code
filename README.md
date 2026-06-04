@@ -49,17 +49,6 @@ Atualmente, estou organizando meus estudos e focando na minha evolução profiss
 
 <div align="center">
   <img
-    height=165
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=pedrosilva-code&show_icons=true&count_private=true&rank_icon=github&theme=transparent"
-  />
-  <img
-    height=165
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilva-code&layout=compact&langs_count=16&theme=transparent"
-  />
-  <br><br>
-  <img
     height=154
     alt="Streak"
     src="https://github-readme-streak-stats.herokuapp.com?user=pedrosilva-code&theme=transparent&hide_border=true"
