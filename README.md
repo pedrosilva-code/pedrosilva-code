@@ -1,5 +1,5 @@
 <!-- 🌊 Header animado com borda azul escuro -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=364765"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=364765"/>
 <h1 align="center">👋 Olá, eu sou o Pedro Silva</h1>
 
 <!-- 📜 Texto animado digitando -->
@@ -14,75 +14,65 @@
 
 ---
 
-<!-- 📊 Estatísticas do GitHub -->
+## 🚀 Sobre Mim
+
+Olá! Sou o Pedro, um entusiasta de tecnologia focado em desenvolvimento **Front-end** e **Design Visual** (Figma). Adoro transformar ideias em interfaces modernas, limpas e fáceis de usar. 
+
+Atualmente, estou organizando meus estudos e focando na minha evolução profissional. Busco uma oportunidade como **Jovem Aprendiz na área de Tecnologia** para aplicar minha dedicação, aprender processos do mundo real, trabalhar em equipe e evoluir minhas habilidades técnicas diariamente.
+
+* 🧠 Atualmente aprofundando em: **HTML5, CSS3, JavaScript e Lógica de Programação**.
+* 🎨 Diferencial: Curto alinhar o código a uma boa experiência visual e design responsivo.
+* ⚡ Comprometimento, organização e muita vontade de aprender definem o meu ritmo de estudos!
+
+💡 *Fique à vontade para explorar meus **3 principais projetos em destaque** logo abaixo!*
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <!-- Linguagens -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" /> &nbsp;
+  <!-- Design -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" /> &nbsp;
+  <!-- Ferramentas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
 <div align="center">
   <img
     height=165
-    align="center"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=pedrosilva-code&show_icons=true&count_private=true&rank_icon=github&theme=transparent"
   />
   <img
     height=165
-    align="center"
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosilva-code&layout=compact&langs_count=16&theme=transparent"
   />
-  <br>
-  <br>
-  <img
-    align="center"
-    alt="Detalhes do Perfil"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrosilva-code&theme=transparent"
-  />
-  <br>
-  <br>
+  <br><br>
   <img
     height=154
-    align="center"
     alt="Streak"
     src="https://github-readme-streak-stats.herokuapp.com?user=pedrosilva-code&theme=transparent&hide_border=true"
   />
-
-
----
-
-<p align="center">
-  <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-</p>
-
-<p align="center">
-  <!-- Design -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-</p>
-
-<p align="center">
-  <!-- Ferramentas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-</p>
-
----
-
-
+</div>
 
 ---
 
 <!-- 📬 Seção de contato -->
 <div align="center">
-  <samp>
-    <b>
-      Entre em contato:
-    </b>
-  </samp>
-  <br>
-  <br>
+  <samp><b>Vamos construir algo incrível juntos? Entre em contato:</b></samp>
+  <br><br>
 
-<p align="center">
   <a href="https://www.linkedin.com/in/pedrosilva07/" target="_blank">
     <img src="https://img.shields.io/badge/%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -92,12 +82,12 @@
   <a href="mailto:spedroalexanderoliveirada@email.com">
     <img src="https://img.shields.io/badge/%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
 
-
-
+<br>
 <p align="center">
-  Feito com ❤️ por Pedro Silva • Vamos construir algo incrível juntos!
+  Feito com ❤️ por Pedro Silva
 </p>
+
 <!-- 🌊 Footer animado com borda azul escuro -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=364765&height=100&section=footer"/>
